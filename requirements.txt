@@ -1,0 +1,6 @@
+django
+django-kronos
+django-celery
+django-filter
+djangorestframework
+markdown
